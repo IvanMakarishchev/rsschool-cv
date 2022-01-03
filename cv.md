@@ -53,3 +53,16 @@ function incrementString (strng) {
   return newStrng;
 }
 ```
+***
+#### My Experience:
+1. Web-Designer: 9 years;
+2. Adobe Photoshop action maker: 6 years.
+***
+#### My Education:
+1. 57 Mykolaiv High School: ended in 2005;
+2. Admiral Makarov National University of Shipbuilding: 2005-2007 (not finished);
+3. Web-Studio "Temogam": 2008;
+4. Codecademy (HTML, CSS, JavaScript): 2017.
+***
+#### English level:
+My English level is **A1** but I trying to improve it.
