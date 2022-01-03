@@ -1,9 +1,6 @@
+![photo](https://i.ibb.co/LdG5mnW/photo.jpg)
 # Ivan Makarishchev
-*********
-### Contact Information:
-**Address:**
-Heroev Stalingrada ave., apt. 36,
-Mykolaiv, Mykolaivska oblast,
-54025, Ukraine
-**Phone:**
-+38 (093) 113-61-96
+***
+**Phone:** +38 (093) 113-61-96
+**Email:** denis.flank@gmail.com
+**Telegram:** +380931136196
