@@ -12,3 +12,17 @@ Greetings! My name is Ivan Makarishchev. I was **borned in Nova Kakhovka, Kherso
 **I had entered the IT in January 2007** on web-studio named "Temogam" on **web-designer position**. I had no education so I learned the basics of web-design and Adobe Photoshop on web-studio. Unfortunately, the web-studio I worked ceased to exist in 2012 and I tried myself in **freelance**. I had created the custom web-designs till 2016 when I tried to create my first Adobe Photoshop action for sale on GraphicRiver. After it was accepted I was excited! Adobe Photoshop action is like programming but for graphic editor.
 
 After a while, in 2017, I have some more time and I started to **learn front-end basics** (HTML, CSS, JavaScript). Also, I found a new feature for Adobe Photoshop actions and it was scripting. I was surprised that the language for Adobe Photoshop scripting is very similar to JavaScript and it calls **ExtendScript**. But I till wanted to become a real programmer and I had searched for the good school. And finally, I found the RS-School and I hope it would give me a lot of knowledge and experience to work in the profession that I dream of.
+***
+#### My Skills:
+**Web-design:**
+- Adobe Photoshop ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+- Adobe Illustrator ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+- Blender ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+- CorelDraw ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+
+**Programming:**
+- HTML ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+- CSS ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+- JavaScript ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+- ExtendScript ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+- TurboPascal ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
