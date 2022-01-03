@@ -57,6 +57,9 @@ function incrementString (strng) {
 #### My Experience:
 1. Web-Designer: 9 years;
 2. Adobe Photoshop action maker: 6 years.
+
+**Projects:**
+https://IvanMakarishchev.github.io/rsschool-cv/cv
 ***
 #### My Education:
 1. 57 Mykolaiv High School: ended in 2005;
