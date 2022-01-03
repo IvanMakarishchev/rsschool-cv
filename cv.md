@@ -26,3 +26,30 @@ After a while, in 2017, I have some more time and I started to **learn front-end
 - JavaScript ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
 - ExtendScript ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
 - TurboPascal ![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)![star](https://i.ibb.co/8rzrvqn/Star-Gold-icon-icons-com-69141.png)
+
+**CodeWars:**
+![img](https://www.codewars.com/users/IvanMakarishchev/badges/small)
+***
+#### Code Example:
+[String incrementer (5 kyu)](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
+```
+function incrementString (strng) {
+  var num = /[0-9]/g;
+  var numArray = strng.match(num);
+  if (numArray === null){
+    numArray=[1];
+  } else if (numArray.length === 1){
+    numArray[0]++;
+  } else {
+    let len = numArray.length;
+    numArray = numArray.join('');
+    numArray++;
+    numArray+='';
+     for (let i=numArray.length; i<len; i++){
+       numArray=0+numArray;
+     }
+  }
+  var newStrng = strng.replace(num,'')+numArray;
+  return newStrng;
+}
+```
