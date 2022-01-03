@@ -4,3 +4,11 @@
 **Phone:** +38 (093) 113-61-96
 **Email:** denis.flank@gmail.com
 **Telegram:** +380931136196
+**Discord:** Ivan (@IvanMakarishchev)
+***
+#### Let me introduce myself:
+Greetings! My name is Ivan Makarishchev. I was **borned in Nova Kakhovka, Khersonska oblast, Ukraine**. My first acquaintance with the computer began when I was 10 years old in 1997. That were old computers called BK in local child arts centre where we learned **BASIC language**. After I moved to Mykolaiv I had learned the **Turbo Pascal** in the local child arts centre. I liked the programming and decided to connect my life with it, but family problems forced me to start work after I finished the high school.
+
+**I had entered the IT in January 2007** on web-studio named "Temogam" on **web-designer position**. I had no education so I learned the basics of web-design and Adobe Photoshop on web-studio. Unfortunately, the web-studio I worked ceased to exist in 2012 and I tried myself in **freelance**. I had created the custom web-designs till 2016 when I tried to create my first Adobe Photoshop action for sale on GraphicRiver. After it was accepted I was excited! Adobe Photoshop action is like programming but for graphic editor.
+
+After a while, in 2017, I have some more time and I started to **learn front-end basics** (HTML, CSS, JavaScript). Also, I found a new feature for Adobe Photoshop actions and it was scripting. I was surprised that the language for Adobe Photoshop scripting is very similar to JavaScript and it calls **ExtendScript**. But I till wanted to become a real programmer and I had searched for the good school. And finally, I found the RS-School and I hope it would give me a lot of knowledge and experience to work in the profession that I dream of.
