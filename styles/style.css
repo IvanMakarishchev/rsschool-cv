@@ -122,7 +122,7 @@ body {
 
 #intro {
     background-color: var(--light-background);
-    padding: 30px;
+    padding: 50px;
 }
 
 .text{
@@ -150,7 +150,7 @@ p {
     flex-direction: column;
     justify-content: space-between;
     margin: auto;
-    padding: 30px;
+    padding: 50px;
 }
 
 .skills-content{
@@ -282,3 +282,91 @@ p {
     color: var(--accent-color);
 }
 
+.edu-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 50px auto 0;
+}
+
+.edu-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: stretch;
+    width: 1440px;
+    height: 300px;
+    margin: 30px auto;
+    list-style-type: none;
+}
+
+.edu-item-1{
+    background-image: url(../images/school.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position-x: center;
+    background-position-y: top;
+    width: 25%;
+    text-align: center;
+    line-height: 2em;
+    padding-top: 180px;
+}
+
+.edu-item-2{
+    background-image: url(../images/univercity.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position-x: center;
+    background-position-y: top;
+    width: 25%;
+    text-align: center;
+    line-height: 2em;
+    padding-top: 180px;
+}
+
+.edu-item-3{
+    background-image: url(../images/temogam.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position-x: center;
+    background-position-y: top;
+    width: 25%;
+    text-align: center;
+    line-height: 2em;
+    padding-top: 180px;
+}
+
+.edu-item-4{
+    background-image: url(../images/codecademy.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position-x: center;
+    background-position-y: top;
+    width: 25%;
+    text-align: center;
+    line-height: 2em;
+    padding-top: 180px;
+}
+
+.lang-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+}
+
+.english {
+    background-image: url(../images/learning.png);
+    background-repeat: no-repeat;
+    background-position-x: 50px;
+    background-position-y: center;
+    background-size: 50px 50px;
+    width: 1440px;
+    padding: 50px;
+    border: dashed 3px var(--accent-color);
+    border-radius: 10px;
+    margin: 0 auto 50px;
+    text-align: center;
+    font-size: 1.5em;
+}
