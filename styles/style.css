@@ -89,6 +89,7 @@ header {
 }
 
 .phone{
+    margin-left: 20px;
     padding: 35px 50px;
     background-image: url(../images/telephone.png);
     background-position: left;
@@ -96,6 +97,7 @@ header {
 }
 
 .email{
+    margin-left: 20px;
     padding: 35px 50px;
     background-image: url(../images/email.png);
     background-position: left;
@@ -103,6 +105,7 @@ header {
 }
 
 .telegram{
+    margin-left: 20px;
     padding: 35px 50px;
     background-image: url(../images/telegram.png);
     background-position: left;
