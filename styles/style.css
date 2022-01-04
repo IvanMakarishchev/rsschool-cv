@@ -1,13 +1,15 @@
 :root {
     --main-color: #222222;
     --accent-color: #e2b932;
+    --light-background: #e2e2e2;
     --text-color: #555555;
     --text-on-black: #cccccc;
-    --light-color: #ffffff;
+    --light-text: #ffffff;
 }
 
 * {
     font-family: Arial, Helvetica, sans-serif;
+    color: var(--text-color);
     margin: 0;
     padding: 0;
 }
@@ -16,6 +18,7 @@
     display: flex;
     margin: auto;
     flex-direction: column;
+    width: 100%;
 }
 
 .navigation {
@@ -73,7 +76,7 @@ header {
 .heading-1 {
     padding: 20px;
     font-size: 4em;
-    color: var(--light-color);
+    color: var(--light-text);
 }
 
 #contacts{
@@ -103,4 +106,61 @@ header {
     background-image: url(../images/telegram.png);
     background-position: left;
     background-repeat: no-repeat;
+}
+
+#intro {
+    background-color: var(--light-background);
+    width: 100%;
+    padding: 30px;
+}
+
+.text{
+    width: 1000px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.heading-2{
+    background-image: url(../images/separator.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+p {
+    margin: 1em;
+    line-height: 1.5em;
+}
+
+#skills{
+    width: 100%;
+    padding: 30px;
+}
+
+.skills-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    width: 1000px;
+    padding: 30px;
+}
+
+ul {
+    line-height: 2em;
+    padding-left: 30px;
+}
+
+.heading-4{
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: var(--light-background);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.skills-content > div{
+    width: 300px;
 }
