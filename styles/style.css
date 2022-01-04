@@ -12,6 +12,12 @@
     padding: 0;
 }
 
+.container {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+}
+
 .navigation {
     position: fixed;
     width: 100%;
@@ -68,4 +74,33 @@ header {
     padding: 20px;
     font-size: 4em;
     color: var(--light-color);
+}
+
+#contacts{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.phone{
+    padding: 25px 50px;
+    background-image: url(../images/telephone.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.email{
+    padding: 25px 50px;
+    background-image: url(../images/email.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.telegram{
+    padding: 25px 50px;
+    background-image: url(../images/telegram.png);
+    background-position: left;
+    background-repeat: no-repeat;
 }
