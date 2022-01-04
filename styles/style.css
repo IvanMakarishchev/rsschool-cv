@@ -15,12 +15,16 @@
     padding: 0;
 }
 
-.container {
+body {
     display: flex;
-    margin: auto;
     flex-direction: column;
-    width: 100%;
+    justify-content: space-between;
 }
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+  }
 
 .navigation {
     position: fixed;
@@ -34,36 +38,40 @@
 
 .nav_list{
     display: flex;
-    width: 1000px;
+    width: 1440px;
     margin:auto;
-    justify-content: space-around;
+    justify-content:space-between;
     list-style-type: none;
 }
 
 .nav_list li{
     padding: 20px;
+    transition: 0.3s;
 }
 
 .nav_list a{
     text-decoration: none;
     color: var(--text-on-black);
+    transition: 0.3s;
 }
 
 .nav_list li:hover{
     background-color: var(--accent-color);
+    transition: 0.3s;
 }
 
 .nav_list li:hover a{
     color: var(--main-color);
+    transition: 0.3s;
 }
 
-header {
+.name{
     display: flex;
     width: 100%;
-    height: 300px;
-    margin: 56px auto 0px;
+    height: 250px;
     justify-content: center;
     align-items: center;
+    margin: 56px auto 0px;
     background-image: url(../images/header-background.jpg);
     background-position: center;
 }
@@ -82,7 +90,7 @@ header {
 
 #contacts{
     display: flex;
-    width: 1000px;
+    width: 1440px;
     margin: auto;
     flex-direction: row;
     justify-content: space-around;
@@ -118,7 +126,7 @@ header {
 }
 
 .text{
-    width: 1000px;
+    width: 1440px;
     margin: 30px auto;
     text-align: center;
 }
@@ -138,6 +146,10 @@ p {
 }
 
 #skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
     padding: 30px;
 }
 
@@ -146,51 +158,127 @@ p {
     flex-direction: row;
     justify-content: space-between;
     margin: auto;
-    width: 1000px;
+    width: 1440px;
     padding: 30px;
 }
 
-ul {
+.skills-left > div > ul {
     line-height: 2em;
-    padding-left: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
 }
 
 .heading-4{
-    padding: 15px;
+    padding: 15px 0px;
     margin-bottom: 20px;
-    background-color: var(--light-background);
-    border-radius: 10px;
-    text-align: center;
+    border-bottom: solid 2px var(--accent-color);
 }
 
 .skills-content > div{
-    width: 300px;
-}
-
-#code {
-    display: flex;
-    flex-direction: column;
-    padding: 30px;
-    background-color: var(--light-background);
+    width: 50%;
+    padding: 0px 50px;
 }
 
 .code {
     display: flex;
     flex-direction: row;
     margin: auto;
-    width: 1000px;
+    width: 100%;
     font-family: 'Courier New', Courier, monospace;
-    background-color: var(--base-background);
+    border: dashed 1px var(--main-color);
     border-radius: 10px;
 }
 
-#code a {
+.skills-right > a,
+.project-container > a {
     background-color: var(--accent-color);
     color:var(--main-color);
     text-decoration: none;
     font-weight: bold;
-    font-size: 0.9em;
+    font-size: 0.9em;  
     padding: 10px;
-    margin: 30px auto 0px;
+    margin: auto;
     border-radius: 5px;
 }
+
+#experience{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    background-image: url(../images/experience-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100vw 100vh;
+}
+
+.exp-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1440px;
+    margin: auto;
+}
+
+.project-text {
+    padding: 0 0 30px;
+}
+
+#experience > div > div > h2 {
+    color: var(--light-text);
+}
+
+.experience {
+    width: 50%;
+    margin: 50px;
+}
+
+.projects {
+    width: 50%;
+    margin: 50px;
+}
+
+.project-container{
+    background-color: var(--base-background);
+    background-image: url(../images/data.png);
+    background-repeat: no-repeat;
+    background-position-x: 50px;
+    background-position-y: center;
+    background-size: 100px 100px;
+    display: block;
+    margin: 30px auto;
+    padding: 30px 30px 30px 200px;
+    font-weight: bold;
+    min-height: 150px;
+    border-radius: 10px;
+}
+
+.exp-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 30px auto;
+    font-weight: bold;
+}
+
+.exp-item-1{
+    width: 50%;
+    height: 200px;
+    background-image: url(../images/9-years.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: var(--accent-color);
+}
+
+.exp-item-2{
+    width: 50%;
+    height: 200px;
+    background-image: url(../images/6-years.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: var(--accent-color);
+}
+
