@@ -2,6 +2,7 @@
     --main-color: #222222;
     --accent-color: #e2b932;
     --light-background: #e2e2e2;
+    --base-background: #ffffff;
     --text-color: #555555;
     --text-on-black: #cccccc;
     --light-text: #ffffff;
@@ -88,21 +89,21 @@ header {
 }
 
 .phone{
-    padding: 25px 50px;
+    padding: 35px 50px;
     background-image: url(../images/telephone.png);
     background-position: left;
     background-repeat: no-repeat;
 }
 
 .email{
-    padding: 25px 50px;
+    padding: 35px 50px;
     background-image: url(../images/email.png);
     background-position: left;
     background-repeat: no-repeat;
 }
 
 .telegram{
-    padding: 25px 50px;
+    padding: 35px 50px;
     background-image: url(../images/telegram.png);
     background-position: left;
     background-repeat: no-repeat;
@@ -110,7 +111,6 @@ header {
 
 #intro {
     background-color: var(--light-background);
-    width: 100%;
     padding: 30px;
 }
 
@@ -135,7 +135,6 @@ p {
 }
 
 #skills{
-    width: 100%;
     padding: 30px;
 }
 
@@ -163,4 +162,32 @@ ul {
 
 .skills-content > div{
     width: 300px;
+}
+
+#code {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: var(--light-background);
+}
+
+.code {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 1000px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: var(--base-background);
+    border-radius: 10px;
+}
+
+#code a {
+    background-color: var(--accent-color);
+    color:var(--main-color);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.9em;
+    padding: 10px;
+    margin: 30px auto 0px;
+    border-radius: 5px;
 }
