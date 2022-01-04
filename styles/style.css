@@ -370,3 +370,20 @@ p {
     text-align: center;
     font-size: 1.5em;
 }
+
+.footer-container{
+    background-color: var(--light-background);
+    width: 100%;
+}
+
+.footer-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    width: 1440px;
+    height: 100px;
+    margin: auto;
+    list-style-type: none;
+}
